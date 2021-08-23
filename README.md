@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santoskeven
-- 👀 busco me me envolver com a comunidade para buscar ajudar e principalmente aprender
+- 👀 busco me envolver com a comunidade para buscar ajudar e principalmente aprender   com a mesma
 - 🌱 atualmente estou estudando Angular e git 
 - 💞se possível pretendo ajudar principalmente quem está iniciantdo no mundo da programção com alguns conteudos relacionados na área que estudo
 - 📫 email: r.kevensantos7@gmail.com / instagram pessoal : r_keven s / instagram onde publico  assuntnos relacionados a progrmação front end: code_dealers
