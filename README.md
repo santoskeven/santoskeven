@@ -3,8 +3,8 @@
 - atualmente estou estudando php.
 - se possível pretendo ajudar principalmente quem está iniciantdo no mundo da programção com alguns conteudos relacionados na área que estudo
 - email pessoal: r.kevensantos7@gmail.com.
-- instagram pessoal : <a target="_blank" href="https://www.instagram.com/r.keven_s/">r.keven s</a>
-- instagram publico: <a target="_blank" href="https://www.instagram.com/code_dealers/">code_dealers</a>
+- instagram pessoal : <a href="https://www.instagram.com/r.keven_s/" target="_blank">r.keven s</a>
+- instagram publico: <a href="https://www.instagram.com/code_dealers/" target="_blank">code_dealers</a>
 
 
 <div align="center">
