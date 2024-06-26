@@ -1,4 +1,4 @@
-- Olá eu sou santoskeven, Estudante de desenvolvimento web front_end.
+- Olá eu sou keven santos, Estudante de desenvolvimento web front_end.
 - Busco me envolver com a comunidade para buscar ajudar e principalmente aprender   com a mesma.
 - atualmente estou estudando php.
 - se possível pretendo ajudar principalmente quem está iniciantdo no mundo da programção com alguns conteudos relacionados na área que estudo
